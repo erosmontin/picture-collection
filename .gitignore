@@ -1,0 +1,8 @@
+old/
+
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+__pycache__/
+launch.json
